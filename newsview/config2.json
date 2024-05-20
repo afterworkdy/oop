@@ -1,0 +1,28 @@
+{
+    "base_url":"https://newsapi.org/v2/top-headlines",
+    "api_key":"c792a16d33e7404bba58e2bbbc9cf896",
+    "category":["topic","business","entertainment","health","science","sports","technology"],
+    "language":[
+        {
+            "code":"kr",
+            "name":"Korea"
+        },
+        {
+            "code":"us",
+            "name":"United States"
+        },
+        {
+            "code":"cn",
+            "name":"China"
+        },
+        {
+            "code":"gb",
+            "name":"United Kingdom"
+        },
+        {
+            "code":"jp",
+            "name":"Japan"
+        }
+    ]
+
+}
